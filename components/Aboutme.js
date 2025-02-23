@@ -15,6 +15,7 @@ function Footer() {
             Engineering Polytechnic Institute of Surabaya student with NRP
             3124600081. My major is Computer sience, im in D4 IT C class. Nice
             to meet you !!
+            this is my commit from ubuntu!
           </p>
         </Col>
         <Col>
